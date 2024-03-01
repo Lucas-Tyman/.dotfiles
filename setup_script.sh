@@ -14,7 +14,7 @@ sudo apt install stow -y
 # installl NeoVIm from source
 mkdir temp
 cd temp
-sudo apt-get install ninja-build gettext cmake unzip curl
+sudo apt-get install ninja-build gettext cmake unzip curl -y
 git clones https://github.com/neovim/neovim
 cd neovim && make CMAKE_BUILD_TYPE=RelWithDebInfo
 sudo make install
