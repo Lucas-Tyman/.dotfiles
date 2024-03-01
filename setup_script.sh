@@ -1,4 +1,4 @@
-#!.usr/bin/env bash
+#!/usr/bin/env bash
 # Created by: Lucas Tyman
 # Created on: Feb 2024
 # AWS Debian Linux .dotfiles and setup script
